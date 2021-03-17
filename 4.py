@@ -1,0 +1,12 @@
+list1 = []
+list1.append('manu')
+list1.append('anil')
+list1.append('yuvi')
+list1.append('labin')
+list1.append('kishn')
+list1.append('kendra')
+print(list1)
+print(id(list1))
+list1.sort()
+print(list1)
+print(id(list1))
